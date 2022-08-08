@@ -1,6 +1,6 @@
 # zPause
 PREVIEW 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/8q3ir6" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+https://streamable.com/8q3ir6
 
 # What is this?
 
