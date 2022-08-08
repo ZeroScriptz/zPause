@@ -1,0 +1,89 @@
+* {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#menu{
+    transition: 0.3s ease-in;
+    
+}
+
+#bg {
+    width: 100%;
+    height: 100%;
+}
+
+#logo {
+    position: absolute;
+    bottom: 40%;
+    left: 1%;
+}
+
+#resume {
+    position: absolute;
+    transition: 0.5s ease-out;
+    left: 2.3%;
+    bottom: 30%;
+    background: none;
+    border: none;
+    color: gray;
+    font-size: 40px;
+    font-family: Impact, sans-serif;
+
+}
+#resume:hover {
+    color: white;
+    font-size: 45px;
+
+  
+}
+#map {
+    position: absolute;
+    transition: 0.5s ease-out;
+    left: 2.3%;
+    bottom: 25%;
+    background: none;
+    border: none;
+    color: gray;
+    font-size: 40px;
+    font-family: Impact, sans-serif;
+}
+#map:hover {
+    color: white;
+    font-size: 45px;
+
+}
+
+#settings {
+    position: absolute;
+    left: 2.2%;
+    transition: 0.5s ease-out;
+    bottom: 20%;
+    background: none;
+    border: none;
+    color: gray;
+    font-size: 40px;
+    font-family: Impact, sans-serif;
+}
+#settings:hover {
+    color: white;
+    font-size: 45px;
+}
+
+#quit {
+    position: absolute;
+    left: 1.75%;
+    transition: 0.5s ease-out;
+    bottom: 15%;
+    background: none;
+    border: none;
+    color: gray;
+    font-size: 40px;
+    font-family: Impact, sans-serif;
+}
+#quit:hover {
+    color: white;
+    font-size: 45px;
+}
